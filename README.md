@@ -1,6 +1,8 @@
 # Welcome to [Astro](https://astro.build)
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Home page
+
+![Home page](../main/screens/home.png)
 
 ## 🚀 Project Structure
 
@@ -56,9 +58,7 @@ All commands are run from the root of the project, from a terminal:
 
 All the pages are build with [tailblock](https://tailblocks.cc/)
 
-## Home page
 
-![Home page](../main/screens/home.png)
 
 
 Feel free to check [our documentation](https://github.com/snowpackjs/astro) or jump into our [Discord server](https://astro.build/chat).
